@@ -1,0 +1,21 @@
+{
+  "name": "giroo-theme",
+  "displayName": "Giroo_Theme",
+  "description": "giroo",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Giroo_theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Giroo_theme-color-theme.json"
+      }
+    ]
+  }
+}
